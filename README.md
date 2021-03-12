@@ -11,6 +11,10 @@ If your subtitles look like this, this tool can help:
 4. Enter the filename of the `.sbv` file
 5. Import the `.fixed.txt` file back to amara and continue working
 
+Here you can see it in action:
+![idea6](https://user-images.githubusercontent.com/18314920/110993814-15345f00-8378-11eb-94fd-af237e14f05d.gif)
+
+
 
 ## Limitations
 - This tool strips all timings
