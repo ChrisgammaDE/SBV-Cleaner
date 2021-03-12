@@ -1,4 +1,6 @@
 # SBV-Cleaner
+This is a tool created for the wintergatan subtitles team.  
+Please remove the banner in the end if you're not from the team!
 
 ## When to use
 If your subtitles look like this, this tool can help:
